@@ -1,0 +1,16 @@
+SAMPLE RESUME — FICTIONAL
+
+EDUCATION
+Bachelor of Science in Applied Mathematics
+
+SKILLS
+Python, SQL, statistics, pandas, NumPy, machine learning, Tableau, Excel
+
+PROJECTS
+Built a machine learning project using Python and scikit-learn.
+Performed statistical analysis and created data visualizations.
+
+EXPERIENCE
+Data Analyst Intern
+Analyzed operational data, identified process issues, and communicated findings to stakeholders.
+Improved workflow efficiency by 15%.

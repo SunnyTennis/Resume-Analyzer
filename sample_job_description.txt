@@ -1,0 +1,12 @@
+Data Scientist
+
+Responsibilities:
+- Analyze structured and unstructured data.
+- Build and evaluate machine learning models.
+- Communicate findings to stakeholders.
+- Develop Python and SQL data workflows.
+
+Qualifications:
+- Bachelor's degree in statistics, mathematics, computer science, or related field.
+- Experience with Python, SQL, statistics, machine learning, and data visualization.
+- Familiarity with cloud platforms such as AWS is preferred.
