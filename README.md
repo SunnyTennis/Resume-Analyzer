@@ -2,7 +2,7 @@
 
 An end-to-end MVP that compares a resume with a job description, extracts recognized skills, calculates a transparent weighted match score, identifies skills not found in the resume, and suggests improvements.
 
-This parses and does a complete in depth analysis of any resume updated.
+This parses and does a complete in depth analysis of any resume uploaded.
 
 ## Features
 
